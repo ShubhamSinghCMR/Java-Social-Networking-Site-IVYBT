@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 22, 2014, 1:23:23 PM
+    Author     : hyE
+*/
+
+#bodyback
+	{
+	background-image:url('pics/bk.jpg');
+	background-repeat:no-repeat;
+	text-align:center;
+	}
+#sitename
+		{
+			font-family:"Courier New","Verdana",sans-serif;
+			font-size:4em;
+		}
+#ta
+	{
+		font-family:"Eras Light ITC",sans-serif;
+		text-align:center;
+	}
